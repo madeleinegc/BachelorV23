@@ -68,3 +68,5 @@ void loop() {
 
   delay(1000);
 }
+
+//dette er en test
